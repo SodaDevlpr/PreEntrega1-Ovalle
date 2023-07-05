@@ -13,11 +13,11 @@ while(producto != '0'){
     switch(producto){
         case "1":
             alert("Se añadio Cerveza cuello negro Pale Ale 5.8° x12un $25.000 a tu Box!");
-            aumentarSubTotal(25.000);
+            aumentarSubTotal(25000);
             break;
         case "2":
             alert("Se añadio Cerveza cuello negro Stout 8° x12un $25.000 a tu Box!");
-            aumentarSubTotal(25.000);
+            aumentarSubTotal(25000);
             break;
         case "3":
             alert("Se añadio Cerveza cuello negro Pale Ale 5.8° x24un $50.000 a tu Box!");
